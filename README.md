@@ -13,10 +13,13 @@ This project generates QR codes from user input such as text or URLs. It allows 
 ---
 
 ## 🛠️ Tech Stack
-- Language: (Python / JavaScript — jo use kiya hai likh dena)
+- Language: HTML, CSS, JavaScript
 
 ---
 
 ## ▶️ How to Run
 ```bash
-# run your project file
+1. Clone the repository:
+   git clone https://github.com/Shoaib-07/qr-generator.git  
+2. Open the project folder  
+3. Open `index.html` in any web browser  
